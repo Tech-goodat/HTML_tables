@@ -1,0 +1,17 @@
+table,tr,th,td{
+    border:solid black;
+    border-width:1px;
+    border-collapse:collapse;
+}
+/*th, td{
+    background-color:orange;
+}*/
+table{
+    width:70%;
+    height:500px;
+    align-items:center;
+}
+
+tr:hover{
+    background-color:#e5f5f5;
+}
